@@ -1,2 +1,2 @@
 # Aliyah0619.github.io
-this was made for Web Programming and Design course
+this repository was made for Web Programming and Design course
